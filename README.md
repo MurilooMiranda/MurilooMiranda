@@ -10,8 +10,9 @@ I'm Computer Science student at UFSCar with a career path focused on Cybersecuri
 - Web Development: Full stack development experience, focusing on react and angular (front-end). Python and node/express.js (back-end).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurilooMiranda&show_icons=true&theme=radical&rank_icon=github" alt="Murilo's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilooMiranda&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=MurilooMiranda&show_icons=true&theme=dark" alt="Murilo's GitHub stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilooMiranda&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <p align="left">
