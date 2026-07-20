@@ -1,13 +1,13 @@
 ## Welcome to my profile 👋
 
 ---
-I'm Computer Science student at UFSCar with a career path focused on Cybersecurity, specializing in Red Team and Pentesting. My passion is to deeply understand systems to uncover their flaws. I have hands-on experience in:
+Computer Science student at UFSCar (10th semester), focusing on Fullstack Development and Network Architecture.
 
-- Web Security: Practical use of Burp Suite and studies on platforms like PortSwigger and DevSecurity.
+Technical Expertise:
+- Software Development: Strong focus on C#, Delphi, React.js, and SQL. Complementary experience with C/C++, Python, Java, and Oracle.
+- Networking & Cloud: Knowledge in Software-Defined Networking (SDN) with OVN/OVS, Terraform, and Ansible, consolidated through the CloudLabs project (UFSCar/Magalu partnership).
 
-- Cloud & Networking: Knowledge of infrastructure like OpenStack, Incus, Terraform, and OVN/OVS, gained through the CloudLabs project (UFSCar/MagaluCloud partnership).
-
-- Web Development: Full stack development experience, focusing on react and angular (front-end). Python and node/express.js (back-end).
+Background: Experience in Security and Web Design, enabling the development of secure, scalable, and user-centric systems.
 
 <p align="left">
   <a href="https://skillicons.dev">
